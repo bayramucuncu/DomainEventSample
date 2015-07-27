@@ -1,0 +1,13 @@
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample\bin\Debug\DomainEventSample.exe.config
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample\bin\Debug\DomainEventSample.exe
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample\bin\Debug\DomainEventSample.pdb
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample\bin\Debug\Ninject.dll
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample\bin\Debug\Ninject.xml
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample\obj\Debug\DomainEventSample.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample\obj\Debug\DomainEventSample.exe
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample\obj\Debug\DomainEventSample.pdb
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample\bin\Debug\StructureMap.dll
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample\bin\Debug\StructureMap.Net4.dll
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample\bin\Debug\StructureMap.pdb
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample\bin\Debug\StructureMap.xml
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample\bin\Debug\StructureMap.Net4.pdb
