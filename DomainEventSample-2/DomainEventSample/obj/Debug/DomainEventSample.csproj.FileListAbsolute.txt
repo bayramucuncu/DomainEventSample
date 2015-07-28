@@ -14,3 +14,16 @@ H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample\bin\Debug\
 H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample-1\DomainEventSample\bin\Debug\DomainEventSample.exe.config
 H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample-1\DomainEventSample\obj\Debug\DomainEventSample.exe
 H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample-1\DomainEventSample\obj\Debug\DomainEventSample.pdb
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample-2\DomainEventSample\bin\Debug\DomainEventSample.exe.config
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample-2\DomainEventSample\obj\Debug\DomainEventSample.exe
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample-2\DomainEventSample\obj\Debug\DomainEventSample.pdb
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample-2\DomainEventSample\bin\Debug\DomainEventSample.exe
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample-2\DomainEventSample\bin\Debug\DomainEventSample.pdb
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample-2\DomainEventSample\bin\Debug\Ninject.dll
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample-2\DomainEventSample\bin\Debug\StructureMap.dll
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample-2\DomainEventSample\bin\Debug\StructureMap.Net4.dll
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample-2\DomainEventSample\bin\Debug\Ninject.xml
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample-2\DomainEventSample\bin\Debug\StructureMap.pdb
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample-2\DomainEventSample\bin\Debug\StructureMap.xml
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample-2\DomainEventSample\bin\Debug\StructureMap.Net4.pdb
+H:\Visual Studio 2013\Projects\C#\DomainEventSample\DomainEventSample-2\DomainEventSample\obj\Debug\DomainEventSample.csprojResolveAssemblyReference.cache
