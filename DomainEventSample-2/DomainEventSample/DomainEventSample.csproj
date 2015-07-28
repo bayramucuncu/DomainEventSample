@@ -63,6 +63,7 @@
     <Compile Include="DomainEventHandler\IDomainEventHandler.cs" />
     <Compile Include="DomainEventHandler\DomainEventDispatcher.cs" />
     <Compile Include="DomainEventHandler\PasswordChangedEventHandler.cs" />
+    <Compile Include="DomainEventHandler\UserAccountDenormalizer.cs" />
     <Compile Include="DomainEventHandler\UserActivatedEventHandler.cs" />
     <Compile Include="DomainEventHandler\UserCreatedEventHandler.cs" />
     <Compile Include="DomainEvent\DomainEvents.cs" />

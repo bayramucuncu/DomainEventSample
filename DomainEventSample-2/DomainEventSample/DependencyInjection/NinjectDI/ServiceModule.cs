@@ -10,9 +10,9 @@ namespace DomainEventSample.DependencyInjection.NinjectDI
     {
         public override void Load()
         {
-            Kernel.Bind<IDomainEventHandler<PasswordChangedEvent>>().To<PasswordChangedEventHandler>();
-            Kernel.Bind<IDomainEventHandler<UserCreatedEvent>>().To<UserCreatedEventHandler>();
-            Kernel.Bind<IDomainEventHandler<UserActivatedEvent>>().To<UserActivatedEventHandler>();
+            Kernel.Bind<IDomainEventHandler<PasswordChangedEvent>>().To<UserAccountDenormalizer>();
+            Kernel.Bind<IDomainEventHandler<UserCreatedEvent>>().To<UserAccountDenormalizer>();
+            Kernel.Bind<IDomainEventHandler<UserActivatedEvent>>().To<UserAccountDenormalizer>();
 
             Kernel.Bind<IDomainRepository>().To<DomainRepository>();
 
